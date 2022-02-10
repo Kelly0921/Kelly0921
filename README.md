@@ -63,4 +63,3 @@ Here are some ideas to get you started:
 
 ### :chart_with_upwards_trend: GitHub Stats
 <img align="left" width="485" src="https://github-readme-stats.vercel.app/api?username=Kelly0921&include_all_commits=true&count_private=true&show_icons=true&theme=buefy" alt="my Github Stats"/>
-<img align="right" width="485" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kelly0921&theme=buefy" alt="my Github Stats"/>
