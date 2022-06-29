@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 <img src="https://media.giphy.com/media/H1f1T0tKK4jEfNt6MG/giphy.gif" width="150" align="right">
 
 ### :woman_technologist: About Me
-<img/>I am a Freshman Student at Lehigh University <img src="https://upload.wikimedia.org/wikipedia/en/e/ef/LUwithShield-CMYK.svg" width="20"> majoring in Computer Science and Business. Some of my key skills have come from my experience volunteering at multiple nonprofits and startups wher I developed a strong foundation in marketing, programming, and management. In the future, I want take some chance to study abroad and do more internships to immerse myself in a more diversed environment.
+<img/>I am a Sophomore Student at Lehigh University <img src="https://upload.wikimedia.org/wikipedia/en/e/ef/LUwithShield-CMYK.svg" width="20"> majoring in Computer Science and Business. Some of my key skills have come from my experience volunteering at multiple nonprofits and startups wher I developed a strong foundation in marketing, programming, and management. In the future, I want take some chance to study abroad and do more internships to immerse myself in a more diversed environment.
 <hr>
 
 ### :computer: Technologies & Tools
