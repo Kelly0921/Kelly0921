@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<img src="https://ibb.co/kxrTL68">
+<img src="https://images2.imgbox.com/b4/2f/TAW2GHei_o.png">
   
 <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/kellychen0921">
