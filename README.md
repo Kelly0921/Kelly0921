@@ -21,9 +21,6 @@ Here are some ideas to get you started:
   <a href="https://www.instagram.com/kellykarry040921">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
   </a>
-  <a href="https://www.hackerrank.com/A_PWSH_KLL">
-    <img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" alt="Hackerrank Badge"/>
-  </a>
 </div>
   <div align="center">
     <img alt="followers" title="Follow me on Github" src="https://img.shields.io/github/followers/Kelly0921?color=F8BBD0&style=for-the-badge&logo=github&label=Follow"/>
@@ -31,31 +28,60 @@ Here are some ideas to get you started:
 </div>
 <hr>
 
-<img src="https://media.giphy.com/media/H1f1T0tKK4jEfNt6MG/giphy.gif" width="150" align="right">
-
 ### :woman_technologist: About Me
-<img/>I am a sophomore student at Lehigh University <img src="https://upload.wikimedia.org/wikipedia/en/e/ef/LUwithShield-CMYK.svg" width="20"> majoring in Computer Science and Business. Some of my key skills have come from my experience volunteering at multiple nonprofits and startups wher I developed a strong foundation in marketing, programming, and management. In the future, I want take some chance to study abroad and do more internships to immerse myself in a more diversed environment.
+I'm known as the one who's always driven to learn new skills and always looking forward to challenges to help me grow beyond my limits. My adventurous personality, technical skills, and experience helped me build a strong network and allowed me to explore my potential.
+
+🎓 I am an ambitious third-year student at Lehigh University majoring in Computer Science and Business, passionate about FinTech, entrepreneurship, and product management. 
+
+<img src="https://media.giphy.com/media/H1f1T0tKK4jEfNt6MG/giphy.gif" width="250" align="right">
+
+👩🏽‍💻 While keeping busy with my studies, I am also involved with campus activities such as: 
+- Co-Web Development Chair of Women in Computer Science
+- Mentor of Computer Science and Business Association
+- Hatchery Participant of Baker Institute
+- Member of New Ventures Club
+
+❤️ I am passionate about:
+- Tech for social good
+- Continuous learning
+- Mentoring future generations of women in tech
+
+✨ I am also actively involved with other professional affiliations outside of school, such as:
+Rewriting the Code, Girls Who Code, AnitaB.org, National Center for Women & Information Technology, Women in Cybersecurity, CodePath, Major League Hacking
+
+🚀 Follow my journey as I boldly pursue my tech goals! 🚩
 <hr>
 
 ### :computer: Technologies & Tools
+Programming Languages:
+
 <a><img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"><a/>
-<a><img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue"><a/>
+<a><img src="https://img.shields.io/badge/Spring_Boot-F2F4F9?style=for-the-badge&logo=spring-boot"><a/>
 <a><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"><a/>
 <a><img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"><a/>
+<a><img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue"><a/>
+<a><img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"><a/>
+
+Software:
+
+<a><img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white"><a/>
+<a><img src="	https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=Swagger&logoColor=white"><a/>
+<a><img src="https://img.shields.io/badge/VMware-231f20?style=for-the-badge&logo=VMware&logoColor=white"><a/>
+<a><img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white"><a/>
+<a><img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white"><a/>
+<a><img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white"><a/>
+<a><img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"><a/>
 <a><img src="https://img.shields.io/badge/Wordpress-21759B?style=for-the-badge&logo=wordpress&logoColor=white"><a/>
-<a><img src="https://img.shields.io/badge/Wix-000?style=for-the-badge&logo=wix&logoColor=white"><a/>
-<a><img src="https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"><a/>
-<a><img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white"><a/>
-<a><img src="https://img.shields.io/badge/Zoom-2D8CFF?style=for-the-badge&logo=zoom&logoColor=white"><a/>
-<a><img src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white"><a/>
-<a><img src="https://img.shields.io/badge/sublime_text-%23575757.svg?&style=for-the-badge&logo=sublime-text&logoColor=important"><a/>
 <a><img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white"><a/>
 <a><img src="https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white"><a/>
-<a><img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"><a/>
-<a><img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white"><a/>
-<a><img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"><a/>
-<a><img src="	https://img.shields.io/badge/windows%20terminal-4D4D4D?style=for-the-badge&logo=windows%20terminal&logoColor=white"><a/>
-<a><img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white"><a/>
+
+Framework/Library:
+
+<a><img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"><a/>
+<a><img src="https://img.shields.io/badge/apache_maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white"><a/>
+<a><img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"><a/>
+<a><img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white"><a/>
+<a><img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"><a/>
 <hr>
 
 ### :chart_with_upwards_trend: GitHub Stats
